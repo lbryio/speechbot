@@ -1,0 +1,24 @@
+{
+  "name": "spee.ch-bot",
+  "version": "0.0.1",
+  "description": "A Slackbot for Spee.ch",
+  "main": "app.js",
+  "repository": "https://github.com/lbryio/spee.ch-bot",
+  "license": "MIT",
+  "author": "Filip Nyquist(@filipnyquist)",
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.6.1",
+    "eslint-plugin-node": "^5.1.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-react": "^7.1.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "husky": "^0.14.1"
+  },
+  "dependencies": {
+    "enviro-conf": "^0.3.1",
+    "slackbots": "^1.0.2",
+    "winston": "^2.3.1"
+  }
+}
